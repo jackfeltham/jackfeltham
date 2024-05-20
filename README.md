@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jackfeltham
-- 👀 I’m a bioinformatician at Fios Genomics but this is a repo for some of my personal code
+- 👀 I’m a bioinformatician at Syngenta but this is a repo for some of my personal code
 - 🌱 I code primarily in R but I also have interest in python and Nextflow.
 - 📫 If you want to reach out, you can find me at: jackedwardfeltham@gmail.com
 
